@@ -1,0 +1,13 @@
+.banner-part{
+    margin-bottom: -200px;
+}
+body::-webkit-scrollbar{
+   display: none;
+ 
+    
+}
+main {
+    
+    max-width:1440px;
+    margin: 0px auto;
+}
